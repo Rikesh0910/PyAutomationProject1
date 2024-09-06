@@ -1,0 +1,18 @@
+2024-09-04 16:56:36,267 : INFO : test_one : the test starts
+2024-09-04 16:56:37,614 : INFO : test_one : new mobile added
+2024-09-04 16:56:38,639 : INFO : test_one : Waiting for home navigation link to be clickable
+2024-09-04 16:56:38,677 : INFO : test_one : Found nav item: ''Home\n(current)''
+2024-09-04 16:56:38,901 : INFO : test_one : Clicked on Home link
+2024-09-04 16:56:38,902 : INFO : test_one : now moving on to laptop page
+2024-09-04 16:56:38,926 : INFO : test_one : Navigating to the laptop page
+2024-09-04 16:56:39,618 : INFO : test_one : Fetching laptop titles
+2024-09-04 16:56:40,459 : INFO : test_one : now adding a laptop to the cart
+2024-09-04 16:56:41,378 : INFO : test_one : new laptop added
+2024-09-04 16:56:47,231 : INFO : test_one : the total amt is: Total: 1890
+2024-09-04 16:56:47,307 : INFO : test_one : filling form to purchase product
+2024-09-04 16:56:47,836 : INFO : test_one : Id: 8568375
+Amount: 1890 USD
+Card Number: 123
+Name: Ricky
+Date: 4/8/2024
+2024-09-04 16:56:47,930 : INFO : test_one : the test is over
